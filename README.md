@@ -7,8 +7,9 @@ Coding Dojo Final MERN Stack Project
 ## Features
 
 ## Developer/Author
-Krystine Xie
+Krystine Xie: https://github.com/krys-xie/
 
-GitHub: https://github.com/krys-xie/
+## Demos
 
-LinkedIn: linkedin.com/in/krystine-xie
+## Related Links
+
