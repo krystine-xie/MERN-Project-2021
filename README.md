@@ -1,4 +1,4 @@
-# Aux Bouquets De May
+# Aux Bouquets de May
 Coding Dojo Final MERN Stack Project
 
 ## Overview
